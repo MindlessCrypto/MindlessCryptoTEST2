@@ -4,13 +4,13 @@
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 137
+    "ID": 80001
   },
   "NFT_NAME": "Mindless Crypto",
   "SYMBOL": "MCNFT",
   "MAX_SUPPLY": 250,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 80,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mindless-crypto",
